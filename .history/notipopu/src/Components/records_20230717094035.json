@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "Sender"  : "Nosipho Holomisa (1)",
+        "Message" : "Complete the work of Mr V in time so the you can master all the code",
+        "read"    : false
+    },
+    {
+        "id":2,
+        "Sender"  : "Thabang(1)",
+        "Message" : "Complete the work of Mr V in time so the you can master all the code",
+        "read"    : true
+    },
+    {
+        "id":3,
+        "Sender"  : "Thabang(1)",
+        "Message" : "Complete the work of Mr V in time so the you can master all the code",
+        "read"    : true
+    }
+  
+]
